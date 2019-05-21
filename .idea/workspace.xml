@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="6dfc255e-7a99-4176-9b27-cddf4b6d4964" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/app/VotableTrait.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/shared/_accept.blade.php" afterDir="false" />
@@ -16,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/resources/views/questions/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/questions/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/questions/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/questions/show.blade.php" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6dfc255e-7a99-4176-9b27-cddf4b6d4964" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +50,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Question.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="501">
               <caret line="86" column="11" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
               <folding>
                 <element signature="e#23#62#0#PHP" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="175">
+              <caret line="30" column="95" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -207,7 +216,7 @@
       <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="3" />
     <option name="width" value="1046" />
     <option name="height" value="1047" />
@@ -359,12 +368,17 @@
       <workItem from="1558191206365" duration="7487000" />
       <workItem from="1558267943099" duration="6925000" />
       <workItem from="1558320603503" duration="15433000" />
+<<<<<<< Updated upstream
       <workItem from="1558338800402" duration="6127000" />
       <workItem from="1558353668897" duration="12260000" />
+=======
+      <workItem from="1558338800402" duration="6284000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="49169000" />
   </component>
   <component name="ToolWindowManager">
@@ -372,6 +386,14 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23880596" />
+=======
+    <option name="totallyTimeSpent" value="37066000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17813334" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -390,7 +412,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.33802816" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33818588" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -766,6 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/questions/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="421">
           <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="22" selection-end-column="30" />
           <folding>
@@ -805,6 +832,10 @@
           <folding>
             <element signature="e#23#62#0#PHP" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="175">
+          <caret line="30" column="95" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
